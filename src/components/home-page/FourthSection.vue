@@ -42,7 +42,7 @@
                   </div>
                 </div>
                 
-                <input type="hidden" name="_next" value="https://el-nasty.github.io/diego-portfolio/">
+                <input type="hidden" name="_next" value="https://el-nasty.github.io/diego-portfolio/thank-you">
 
                 <div class="sm:col-span-2 flex justify-center">
                   <button @submit="test()" type="submit" class="inline-flex justify-center items-center min-w-[11.5%] px-5 py-2 border border-transparent text-base font-medium rounded-full shadow-sm bg-red1 hover:opacity-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white">
